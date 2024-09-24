@@ -2,6 +2,16 @@ Introduction
 
 The report presents a comprehensive analysis of sales performance for fruits and vegetables, detailing monthly sales, product preferences, and regional distribution.
 
+Problem Questions
+
+What is the overall trend in product sales over the months?
+
+Which product contributes more to the overall revenue?
+
+Which specific products drive the highest sales in each category?
+
+How do sales differ across different countries?
+
 Insights Highlights
 
 •	Total Sales Performance
